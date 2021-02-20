@@ -1,3 +1,3 @@
 # fullstackopen
 
-Repository for submitting excersises from ghe Full stack open course.
+Repository for submitting excersises from the Full stack open course.
